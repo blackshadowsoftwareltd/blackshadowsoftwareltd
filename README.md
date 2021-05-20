@@ -9,6 +9,8 @@
 
 - 📬 How to reach me **blackshadowsoftwareltd@gmail.com**
 
+- 🏸 I love playing **badminton**
+
 - 🤭 Fun fact **I am not only funny. I am seriously funny.**
 
 
