@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Remon Ahammad</h1>
 <h3 align="center">A passionate Flutter App developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> </p>
+
 - 💻🖱 I’m currently working on **Flutter App Development**
 
 - 💻🖱 I’m currently learning **Flutter Web and App**
