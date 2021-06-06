@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remon Ahammad</h1>
-<h3 align="center"> Flutter App developer from Bangladesh</h3>
+<h3 align="center">Flutter App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> </p>
 
