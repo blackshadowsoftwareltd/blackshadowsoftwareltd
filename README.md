@@ -42,4 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackshadowsoftwareltd&show_icons=true" alt="blackshadowsoftwareltd" /></p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=blackshadowsoftwareltd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
