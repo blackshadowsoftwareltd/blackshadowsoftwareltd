@@ -7,7 +7,7 @@
 
 - 💻🖱 I’m currently learning **Flutter Web and App**
 
-- 🎃 I regularly publish my video on YouTube [https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)
+- 🎃 I regularly publish my video on YouTube [...](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)
 
 - 📬 How to reach me **blackshadowsoftwareltd@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - **[Linkedin](https://www.linkedin.com/in/remonahammad/)**
-- 
+ 
 - **[Facebook](https://www.facebook.com/remonahammad.personal/)**
 
 - **[YouTube](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)**
