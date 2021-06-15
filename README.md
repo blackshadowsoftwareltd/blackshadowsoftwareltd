@@ -20,6 +20,8 @@
 
 - Linkedin [https://www.linkedin.com/in/remonahammad/](https://www.linkedin.com/in/remonahammad/)
 
+- **[Facebook](https://www.facebook.com/ashanaur.rahman.16/)**
+
 - Facebook [https://www.facebook.com/Remonahammad.personal/](https://www.facebook.com/Remonahammad.personal/)
 
 - YouTube [https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)
