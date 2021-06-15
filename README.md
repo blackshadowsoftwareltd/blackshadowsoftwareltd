@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> </p>
 
+<p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 - 💻🖱 I’m currently working on **Flutter App Development**
 
