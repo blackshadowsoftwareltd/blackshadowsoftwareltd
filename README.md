@@ -13,6 +13,8 @@
 
 -------------
 
+<h3 align="left">About me:</h3>
+
 - 💻🖱 I’m currently working on **Flutter App Development**
 
 - 💻🖱 I’m currently learning **Flutter Web and App**
@@ -25,17 +27,15 @@
 
 - 🤭 Fun fact **I am not only funny. I am seriously funny.**
 
-<h1 align="center"></h1>
-
 <h3 align="left">Connect with me:</h3>
-
-- **[Linkedin](https://www.linkedin.com/in/remonahammad/)**
- 
-- **[Facebook](https://www.facebook.com/remonahammad.personal/)**
-
-- **[YouTube](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)**
-
-<h1 align="center"></h1>
+<a href="https://www.linkedin.com/in/remonahammad/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.facebook.com/remonahammad.personal/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+ <a href="https://stackoverflow.com/users/18158216/blackshadow">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />   	 	
 
 ### Status & Languages
 
