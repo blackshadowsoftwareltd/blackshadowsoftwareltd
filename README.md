@@ -15,9 +15,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 💻🖱 I’m currently working on **Flutter App Development**
+- 🖥️💻📱 I’m currently working on **Flutter App Development**
 
-- 💻🖱 I’m currently learning **Flutter Web and App**
+- 🖥️💻🌐 I’m currently learning **Flutter Web and App**
 
 - 🎃 I regularly publish my video on **[YouTube](https://www.youtube.com/channel/UCo7eZmGvKyGsIpVPtkLxfjA)**
 
