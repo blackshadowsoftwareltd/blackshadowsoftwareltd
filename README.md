@@ -1,11 +1,15 @@
 <h1 align="center">Hi,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px"> I'm Remon Ahammad</h1>
 <h3 align="center">Flutter App developer</h3>
 
-|  Followers      | Profile views           |  
-|:-------------:|:-------------:|
-| ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge)     | <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> |
+<!-- |  Followers      | Profile views           |   -->
+<!-- |:-------------:|:-------------:| -->
+<!-- | ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) | <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> | -->
 
-<p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<!-- <p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> -->
+
+|  Followers | ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) | Profile views  |<img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" />|
+|:-------------:|:-------------:|:-------------:|:-------------:|
+<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 -------------
 
