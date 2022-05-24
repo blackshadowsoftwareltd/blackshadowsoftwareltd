@@ -1,12 +1,6 @@
 <h1 align="center">Hi,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px"> I'm Remon Ahammad</h1>
 <h3 align="center">Flutter App developer</h3>
 
-<!-- |  Followers      | Profile views           |   -->
-<!-- |:-------------:|:-------------:| -->
-<!-- | ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) | <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> | -->
-
-<!-- <p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> -->
-
 |  Followers | ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) | Profile views  |<img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" />|
 |:-------------:|:-------------:|:-------------:|:-------------:|
 <p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
@@ -52,18 +46,3 @@
 -------------
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-
-<!-- not using -->
-
-<!-- ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" /> </p> -->
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackshadowsoftwareltd&show_icons=true&locale=en&layout=compact" alt="blackshadowsoftwareltd" /></p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackshadowsoftwareltd" alt="blackshadowsoftwareltd" /></a> </p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackshadowsoftwareltd&show_icons=true" alt="blackshadowsoftwareltd" /></p> -->
