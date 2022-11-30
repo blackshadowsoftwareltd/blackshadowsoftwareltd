@@ -3,7 +3,10 @@
 
 |  Followers | ![GitHub followers](https://img.shields.io/github/followers/blackshadowsoftwareltd?logo=GitHub&style=for-the-badge) | Profile views  |<img src="https://komarev.com/ghpvc/?username=blackshadowsoftwareltd&label=Profile%20views&color=0e75b6&style=flat" alt="blackshadowsoftwareltd" />|
 |:-------------:|:-------------:|:-------------:|:-------------:|
-<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+| ----------- | ----------- |
+|:-------------------:|:-------------:|
+| [![Check out blackshadowsoftwareltd's profile on stardev.io](https://stardev.io/developers/blackshadowsoftwareltd/badge/languages/global.svg)](https://stardev.io/developers/blackshadowsoftwareltd) |  <p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p> |
 
 -------------------------------
 
